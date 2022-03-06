@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Gracias, Hasta Luego </h1>
+   <h1> Colón Campeón 2021 </h1>
 
   
 </form>
